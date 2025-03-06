@@ -1,0 +1,8 @@
+/home/gl/Documents/gpsSample/gpsDotnet/bin/Debug/net8.0/linux-arm64/publish/gpsDotnet
+/home/gl/Documents/gpsSample/gpsDotnet/bin/Debug/net8.0/linux-arm64/publish/gpsDotnet.dll
+/home/gl/Documents/gpsSample/gpsDotnet/bin/Debug/net8.0/linux-arm64/publish/gpsDotnet.deps.json
+/home/gl/Documents/gpsSample/gpsDotnet/bin/Debug/net8.0/linux-arm64/publish/gpsDotnet.runtimeconfig.json
+/home/gl/Documents/gpsSample/gpsDotnet/bin/Debug/net8.0/linux-arm64/publish/gpsDotnet.pdb
+/home/gl/Documents/gpsSample/gpsDotnet/bin/Debug/net8.0/linux-arm64/publish/NmeaParser.dll
+/home/gl/Documents/gpsSample/gpsDotnet/bin/Debug/net8.0/linux-arm64/publish/System.IO.Ports.dll
+/home/gl/Documents/gpsSample/gpsDotnet/bin/Debug/net8.0/linux-arm64/publish/System.IO.Ports.Native.so

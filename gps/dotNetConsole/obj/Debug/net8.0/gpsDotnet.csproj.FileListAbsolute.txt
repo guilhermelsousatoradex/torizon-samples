@@ -1,0 +1,5 @@
+/home/gl/Documents/gpsSample/gpsDotnet/obj/Debug/net8.0/gpsDotnet.csproj.AssemblyReference.cache
+/home/gl/Documents/gpsSample/gpsDotnet/obj/Debug/net8.0/gpsDotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/gl/Documents/gpsSample/gpsDotnet/obj/Debug/net8.0/gpsDotnet.AssemblyInfoInputs.cache
+/home/gl/Documents/gpsSample/gpsDotnet/obj/Debug/net8.0/gpsDotnet.AssemblyInfo.cs
+/home/gl/Documents/gpsSample/gpsDotnet/obj/Debug/net8.0/gpsDotnet.csproj.CoreCompileInputs.cache
